@@ -1,0 +1,2 @@
+﻿2011/7/21由于原有多维服务器出现问题（TOMISACAT\TOMISAGOODCAT)故重新建立新的服务器(TOMISACAT\TOMISAGOODCATSAS)并将工程中对应的服务器改为对应新服务器，势必会对之前的前端开发造成影响。
+另外，由于在reporting service项目中对应的多维数据库名称是Agriculture DW 故将分析项目中生成多维数据库名称由AgricultureSSAS改为AgricultureDW。
